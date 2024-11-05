@@ -1,0 +1,52 @@
+
+section{
+    background-color: #97a97c; /*Aca le doy color a toda la seccion*/
+}
+img{
+    width: 450%; /*Aca acomodo el tamaño de la manera mas agradable a la pagina esteticamente*/
+    height: 450%;
+}
+#pag{
+    margin-left: 520px; /*Esto es la paginacion y uso un margin-left para tratar de que los botones queden en el centro de la pagina*/
+}
+h1{ /*Aqui le doy tamaño,fuente y centro h1*/
+    text-align: center;
+    font-size: 500px;
+    font-family: oswald;
+}
+h2{ /*Aqui le doy tamaño,fuente y centro h2*/
+    text-align: center;
+    font-family: oswald; 
+}
+h3{ /*Aqui le doy tamaño,fuente y centro h3*/
+    text-align: center;
+    font-family: oswald;
+}
+h4{ /*Aqui le doy tamaño,fuente y centro h4*/
+    font-family: oswald;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+p{ /*Aqui le doy tamaño,fuente y centro p*/
+    font-family: oswald;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ul{ /*Aqui le doy tamaño,fuente y centro ul*/
+    font-family: oswald;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer{ /*Aqui separo footer del borde*/
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#AB{ /*Aqui estoy usando como etiqueta un ID para una imagen que esta en el menu que es un logo*/
+    height: 60px;
+    width: 70px;
+}
+#off{ /*Aqui separo de los bordes al offcanva*/
+    padding-left: 10px;
+    padding-right: 10px;
+}
